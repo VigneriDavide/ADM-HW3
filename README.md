@@ -1,4 +1,4 @@
-# ADM Homework 3 - Wonders of the World 
+# Search Engine Project
 This repositiory contains our answers to the homework questions posted on this [link](https://github.com/lucamaiano/ADM/tree/master/2022/Homework_3)
 
 _________
